@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sou estudante de Engenharia de Software na UFC
+Sou estudante de Engenharia de Software na UFC.
+Meus pronomes são ela/dela.
