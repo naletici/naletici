@@ -1,4 +1,4 @@
-# <img width="192" height="108" alt="image" src="https://github.com/user-attachments/assets/4f4eb03c-91b0-4f2f-b5c4-51a0d017ba6a" /> Hello! Welcome to my Github profile. <img width="192" height="108" alt="image" src="https://github.com/user-attachments/assets/4f4eb03c-91b0-4f2f-b5c4-51a0d017ba6a" />
+# <img width="192" height="108" alt="image" src="https://github.com/user-attachments/assets/4f4eb03c-91b0-4f2f-b5c4-51a0d017ba6a" /> Hello! Welcome to my Github profile. 
 <p align="center">
   I'm Ana. I'm Always open to learn new things. 😊
 </p>
